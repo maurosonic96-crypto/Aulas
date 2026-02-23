@@ -510,9 +510,50 @@ Semestre: 2026.1
 498. Ele gerencia recursos essenciais.
 499. Ele viabiliza multitarefa segura.
 500. Sistema Operacional é a base da computação contemporânea.
-501. ![resumo-expandido-500-linhas.md]()
+
+
+![resumo-expandido-500-linhas.md](resumo-expandido-500-linhas.png)
 
 
 
+
+
+
+     # 🧠 Evolução dos Sistemas Operacionais
+
+```mermaid
+timeline
+    title Evolução dos Sistemas Operacionais
+
+    1945-1955 : Sem Sistema Operacional
+              : Programação em máquina
+              : Operação manual
+              : Um programa por vez
+              : Computadores com válvulas
+
+    1955-1965 : Batch Systems
+              : Processamento em lote
+              : Cartões perfurados
+              : Monitor residente
+              : Automação inicial
+
+    1965-1980 : Multiprogramação
+              : Time-Sharing
+              : Interrupções
+              : Surgimento do UNIX (1969)
+              : Mainframes (IBM System/360)
+
+    1980-2000 : Computadores Pessoais
+              : Interfaces gráficas
+              : Redes locais
+              : UNIX moderno e Windows
+              : Popularização da computação
+
+    2000-Hoje : Sistemas Distribuídos
+              : Linux dominante em servidores
+              : Virtualização
+              : Cloud Computing
+              : Containers
+              : Mobile OS
 
 
