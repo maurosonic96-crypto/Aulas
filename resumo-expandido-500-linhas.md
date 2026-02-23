@@ -519,7 +519,7 @@ Semestre: 2026.1
 
 
 
-     # 🧠 Evolução dos Sistemas Operacionais
+   # 🧠 Evolução dos Sistemas Operacionais
 
 ```mermaid
 timeline
@@ -555,5 +555,3 @@ timeline
               : Cloud Computing
               : Containers
               : Mobile OS
-
-
